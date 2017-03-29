@@ -13,7 +13,6 @@ public class DetectCapitalUse
 		{
 			if(Character.isUpperCase(word.charAt(i))) capitalCharCounter++;
 		}
-		// if the program reaches here, it means first letter is lower.
 		if(capitalCharCounter == 0) return true;
 		else
 		{
