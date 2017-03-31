@@ -2,21 +2,23 @@
 /**
  * Created by sdurgut on 3/29/17.
  */
-class TreeNode
-{
-	int val;
-	TreeNode left;
-	TreeNode right;
-
-	TreeNode(int x)
-	{
-		val = x;
-	}
-}
 
 
 public class MaxDepthBinaryTree
 {
+	// keeps the TreeNode class only for this program
+	static class TreeNode
+	{
+		int val;
+		TreeNode left;
+		TreeNode right;
+
+		TreeNode(int x)
+		{
+			val = x;
+		}
+	}
+
 	public static int maxDepth(TreeNode root)
 	{
 		if(root ==null) return 0;
