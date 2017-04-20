@@ -22,23 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java">
+      <file leaf-file-name="BuySellStocksII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BuySellStocksII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BestTimetoBuyandSellStockII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BestTimetoBuyandSellStockII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="828">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +84,8 @@
         <option value="$PROJECT_DIR$/src/SumofLeftLeaves.java" />
         <option value="$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java" />
         <option value="$PROJECT_DIR$/src/BestTimetoBuyandSellStockII.java" />
+        <option value="$PROJECT_DIR$/src/BestTimetoButandSellStockII.java" />
+        <option value="$PROJECT_DIR$/src/BuySellStocksII.java" />
       </list>
     </option>
   </component>
@@ -144,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstUniqueCharacterinaString">
+  <component name="RunManager" selected="Application.PopulatingNextRightPointersinEachNode">
     <configuration default="false" name="PopulatingNextRightPointersinEachNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="PopulatingNextRightPointersinEachNode" />
@@ -616,11 +606,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FirstUniqueCharacterinaString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SumofLeftLeaves" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IntersectionofTwoArrays" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RansomNote" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersinEachNode" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersinEachNode" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FirstUniqueCharacterinaString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SumofLeftLeaves" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IntersectionofTwoArrays" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RansomNote" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -672,12 +662,14 @@
       <workItem from="1491721224506" duration="31000" />
       <workItem from="1492114702417" duration="5919000" />
       <workItem from="1492201645086" duration="8000" />
-      <workItem from="1492201693878" duration="12578000" />
+      <workItem from="1492201693878" duration="13772000" />
+      <workItem from="1492717074306" duration="1572000" />
+      <workItem from="1492718691249" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74035000" />
+    <option name="totallyTimeSpent" value="76963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -701,7 +693,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -748,20 +740,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MinimumAbsoluteDifferenceinBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RelativeRanks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConstructRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1041,10 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1654#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1052,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
           <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1068,11 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#280#289#0" expanded="true" />
-            <element signature="e#328#337#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,7 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="74" column="28" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="74" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,27 +1054,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="29" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BestTimetoBuyandSellStockII.java">
+    <entry file="file://$PROJECT_DIR$/src/BestTimetoButandSellStockII.java" />
+    <entry file="file://$PROJECT_DIR$/src/BestTimetoBuyandSellStockII.java" />
+    <entry file="file://$PROJECT_DIR$/src/BuySellStocksII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="828">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
