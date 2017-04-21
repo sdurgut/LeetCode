@@ -35,7 +35,7 @@
       <file leaf-file-name="DeleteNodeinaLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DeleteNodeinaLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="-441">
               <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding>
                 <element signature="e#245#246#0" expanded="true" />
@@ -45,16 +45,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SameTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SameTree.java">
+      <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/ExcelSheetColumnNumber.java" />
         <option value="$PROJECT_DIR$/src/DeleteNodeinaLinkedList.java" />
         <option value="$PROJECT_DIR$/src/SameTree.java" />
+        <option value="$PROJECT_DIR$/src/MajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/ValidAnagram.java" />
       </list>
     </option>
   </component>
@@ -164,37 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SameTree">
-    <configuration default="false" name="PopulatingNextRightPointersinEachNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PopulatingNextRightPointersinEachNode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FirstUniqueCharacterinaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FirstUniqueCharacterinaString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ValidAnagram">
     <configuration default="false" name="ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ExcelSheetColumnNumber" />
@@ -228,6 +196,36 @@
     <configuration default="false" name="SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SameTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MajorityElement" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ValidAnagram" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -628,19 +626,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersinEachNode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FirstUniqueCharacterinaString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DeleteNodeinaLinkedList" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SameTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DeleteNodeinaLinkedList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SameTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MajorityElement" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ValidAnagram" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SameTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DeleteNodeinaLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersinEachNode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FirstUniqueCharacterinaString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ValidAnagram" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MajorityElement" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SameTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DeleteNodeinaLinkedList" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -694,12 +692,12 @@
       <workItem from="1492201645086" duration="8000" />
       <workItem from="1492201693878" duration="13772000" />
       <workItem from="1492717074306" duration="1572000" />
-      <workItem from="1492718691249" duration="5923000" />
+      <workItem from="1492718691249" duration="10398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82724000" />
+    <option name="totallyTimeSpent" value="87199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -723,7 +721,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -770,20 +768,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DetectCapitalUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxDepthBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindtheDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -1097,7 +1081,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DeleteNodeinaLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="-441">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
             <element signature="e#245#246#0" expanded="true" />
@@ -1108,13 +1092,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SameTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+        <state relative-caret-position="596">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
             <element signature="e#251#252#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="90" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding>
+            <element signature="e#1226#1243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
