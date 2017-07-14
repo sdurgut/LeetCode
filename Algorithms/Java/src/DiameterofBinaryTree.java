@@ -2,20 +2,21 @@
  * Created by sdurgut on 7/11/17.
  */
 
-class TreeNode
-{
-	int val;
-	TreeNode left;
-	TreeNode right;
 
-	TreeNode(int x)
-	{
-		val = x;
-	}
-}
 
 public class DiameterofBinaryTree
 {
+	static class TreeNode
+	{
+		int val;
+		TreeNode left;
+		TreeNode right;
+
+		TreeNode(int x)
+		{
+			val = x;
+		}
+	}
 	private  int max = 0;
 	public  int diameterOfBinaryTree(TreeNode root)
 	{
